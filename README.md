@@ -5,6 +5,6 @@
 ### In this repository, I have implemented simple projects so that you can get acquainted with how to program and implement these types of projects.
 
 ### This is a project-based training and in each section you can learn how to implement project and mechanism of the system by reading its documents.
+</img>
 
-<dt>center</dt>
-<dd>Align the elements centered.</dd>
+## Hello
