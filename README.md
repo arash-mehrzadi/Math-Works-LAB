@@ -6,4 +6,5 @@
 
 ### This is a project-based training and in each section you can learn how to implement project and mechanism of the system by reading its documents.
 
-<dt>Hello</dt>
+<dt>center</dt>
+<dd>Align the elements centered.</dd>
