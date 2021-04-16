@@ -4,6 +4,6 @@
 
 # Math Works LAB [![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://github.com/sindresorhus/awesome#readme)
 
-### In this repository, I have implemented simple projects so that you can get acquainted with how to program and implement these types of projects.
+### In this repository, I have implemented some basic projects with MATLAB and you can access them through this repository .
 
-### This is a project-based training and in each section you can learn how to implement project and mechanism of the system by reading its documents.
+### This is a project-based training and in each section you can see how to implement the code and learn its basic parameters.
