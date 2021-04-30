@@ -26,7 +26,8 @@
  
 | Chapter - Section   | Title                    |Tags                                                        |
 | ------------------- |:------------------------:|:----------------------------------------------------------:|
-| Ch0-0        | [Basic Concepts](https://github.com/arash-mehrzadi/Math-Works-LAB)|#Operations #Circle Area #Circumference #Volume of the sphere|
+| Ch0-0        | [Basic Concepts](https://github.com/arash-mehrzadi/Math-Works-LAB/tree/main/Ch0)|#Operations #Circle Area #Circumference #Volume of the sphere|
+| Ch1-0        | [Math Functions](https://github.com/arash-mehrzadi/Math-Works-LAB/tree/main/Ch1)|#Operations #Math Functions #Simple plots|
 
 <p align="left">
     <a href="https://github.com/arash-mehrzadi" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/arash-mehrzadi/Math-Works-LAB?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
